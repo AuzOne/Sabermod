@@ -1,4 +1,0 @@
-Sabermod
-========
-
-Sabermod Toolchains
